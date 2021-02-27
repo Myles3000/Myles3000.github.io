@@ -1,0 +1,15 @@
+div{
+    padding: 10px;
+    width: 335px;
+    text-align: justify;
+}
+.under{
+    text-decoration: underline;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+#high{
+    background-color: orange;
+}
